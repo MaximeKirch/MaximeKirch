@@ -29,6 +29,7 @@ I help startups, scale-ups, and product teams launch and accelerate their mobile
 
 I have successfully delivered **+8 production-ready projects**. Here are a few companies that trusted my expertise:
 - **The Residency** – Mobile development & feature scaling.
+- **Synaxe (Logistics & Aviation)** – Developed robust mobile solutions used daily by aircraft refuelers (*avitailleurs*) at **Aéroports de Paris (CDG / Orly)**. Built features designed for extreme operational reliability, focusing on automated data synchronization, offline capabilities, and field-testing.
 - **Rize Networks** – Full Stack architecture and product delivery.
 - **Uballers** – High-performance mobile implementation.
 
@@ -39,7 +40,7 @@ I have successfully delivered **+8 production-ready projects**. Here are a few c
 I'm currently accepting new freelance contracts and fractional positions. If you need a reliable engineer to unblock your mobile roadmap, let's connect:
 
 - 💼 **Malt Profile:** [Check my availability & rates on Malt](https://www.malt.fr/profile/maximekirch)
-- 👔 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME) _<!-- Replace with your actual username -->_
-- 📧 **Email:** [maxime.kirch.pro@gmail.com](mailto:YOUR_EMAIL@gmail.com) _<!-- Replace with your actual email if needed -->_
+- 👔 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/maxime-kirch/) _<!-- Replace with your actual username -->_
+- 📧 **Email:** [maxime.kirch@gmail.com](mailto:maxime.kirch@gmail.com) _<!-- Replace with your actual email if needed -->_
 
 ---
