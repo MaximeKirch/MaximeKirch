@@ -1,29 +1,45 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maxime Kirch
-====================================================================================================================================
+# 👋 Hi, I'm Maxime Kirch
 
-I'm a Software Engineer
------------------------
+### **Senior Full Stack Mobile Engineer | React Native & Node.js Specialist**
 
-I've been learning web development by starting with HTML. Then i quickly specialized myself with JavaScript (especially React and React Native for mobile development) ecosystem that I love so much and that i keep learning every single days !
+I help startups, scale-ups, and product teams launch and accelerate their mobile products. I specialize in building high-performance, cross-platform mobile applications and scaling the robust backend infrastructures that power them.
 
-* 🌍  I'm based in Corte, Corsica, France
-* ✉️  You can contact me at [maxime.kirch@gmail.com](mailto:maxime.kirch@gmail.com)
-* 🚀  I'm currently working on [The Residency](http://www.theresidency.io)
-* 🧠  I'm learning Blender and 3D arts
-* ⚡  Blockchain enthusiast and video games lover 👀
+🌍 **Based in Montreal** | Available for Worldwide, US, and EU **Full Remote** contracts (Asynchronous-friendly).
 
-### Skills
+---
 
+## 🛠️ Technical Arsenal
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a><a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-</p>
+- **Frontend & Mobile:** React Native, React.js, TypeScript, JavaScript, Redux Toolkit, Context API
+- **Backend & Architecture:** Node.js, Express, Next.js, RESTful APIs, GraphQL
+- **Databases & DevOps:** SQL (PostgreSQL, MySQL), NoSQL (MongoDB), Git, CI/CD pipelines
+- **Mobile Expertise:** App Store & Google Play deployment, push notifications, offline storage, performance optimization
 
+---
 
-### Socials
+## 🚀 What I Bring to Your Team
 
-<p align="left"> <a href="https://discord.com/users/maximeki" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/MaximeKirch" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/maxime-kirch-467443135/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/kirchmaxime" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+- **End-to-End Product Delivery:** I bridge the gap between frontend experiences and backend APIs. I can take a feature from a Figma design, build the endpoint, integrate it into the mobile app, and ship it to the stores.
+- **Clean Code & Architecture:** I write strict TypeScript, follow SOLID principles, and ensure the codebase remains maintainable as your team grows.
+- **Startup Mindset:** Having worked with fast-paced teams (The Residency, Rize Networks, Uballers), I know how to balance engineering excellence with rapid delivery to hit business milestones.
 
-### Badges
+---
 
-<a href="https://github.com/MaximeKirch" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximeKirch&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 💼 Proven Track Record
+
+I have successfully delivered **+8 production-ready projects**. Here are a few companies that trusted my expertise:
+- **The Residency** – Mobile development & feature scaling.
+- **Rize Networks** – Full Stack architecture and product delivery.
+- **Uballers** – High-performance mobile implementation.
+
+---
+
+## 📬 Let's Build Something Together
+
+I'm currently accepting new freelance contracts and fractional positions. If you need a reliable engineer to unblock your mobile roadmap, let's connect:
+
+- 💼 **Malt Profile:** [Check my availability & rates on Malt](https://www.malt.fr/profile/maximekirch)
+- 👔 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME) _<!-- Replace with your actual username -->_
+- 📧 **Email:** [maxime.kirch.pro@gmail.com](mailto:YOUR_EMAIL@gmail.com) _<!-- Replace with your actual email if needed -->_
+
+---
